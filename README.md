@@ -10,8 +10,7 @@ This project is based on the YouTube tutorial [J.A.R.V.I.S - OpenAI + Python Pow
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 Inspired by a YouTube tutorial by Merlin, this project walks through the creation of an AI voice assistant using Python and OpenAI. The assistant can understand and respond to spoken commands, thanks to the integration of speech recognition and natural language processing technologies.
